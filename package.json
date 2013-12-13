@@ -1,6 +1,6 @@
 {
-  "name": "node-debug",
-  "version": "0.0.0",
+  "name": "node-debug2",
+  "version": "0.1.0",
   "description": "Quick and easy wrapper for node-inspector",
   "bin": {
     "node-debug": "bin/node-debug.js"

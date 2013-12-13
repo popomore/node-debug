@@ -1,6 +1,8 @@
 Debug with [node-inspector](https://github.com/dannycoates/node-inspector) really
 easily.
 
+**You can use `node-debug2` now util @jfirebaugh merge my [pr](https://github.com/jfirebaugh/node-debug/pull/3).**
+
 ## Usage
 
 ```
